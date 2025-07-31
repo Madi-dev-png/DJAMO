@@ -19,7 +19,7 @@ body{
     align-items: center;
     gap: 10px;
 }
-.Compte{
+.btn-1{
     color: white;
     border:0px none ;
     border-radius: 48px ;
@@ -27,7 +27,7 @@ body{
     padding: 20px 38px;
     text-decoration: none;
 }
-.Compte:hover{
+.btn-1:hover{
     background-color:  rgb(16, 98, 238);
 }
 .menu li {
