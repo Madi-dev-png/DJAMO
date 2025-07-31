@@ -404,6 +404,18 @@ ul li {
     display: flex;
     align-items: center;
 }
+.Compte {
+    
+    color: white;
+    border:5px none ;
+    border-radius: 40px ;
+    background-color: blue;
+    padding: 20px 20px;
+    text-decoration: none;
+}
+.Compte :hover{
+    background-color: rgb(16, 98, 238);
+}
 .btn {
     
     color: white;
